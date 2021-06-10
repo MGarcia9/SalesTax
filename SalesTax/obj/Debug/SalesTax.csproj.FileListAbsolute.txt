@@ -1,0 +1,7 @@
+C:\Users\michael\source\repos\SalesTax\obj\Debug\SalesTax.csproj.CoreCompileInputs.cache
+C:\Users\michael\source\repos\SalesTax\bin\Debug\SalesTax.exe.config
+C:\Users\michael\source\repos\SalesTax\bin\Debug\SalesTax.exe
+C:\Users\michael\source\repos\SalesTax\bin\Debug\SalesTax.pdb
+C:\Users\michael\source\repos\SalesTax\obj\Debug\SalesTax.exe
+C:\Users\michael\source\repos\SalesTax\obj\Debug\SalesTax.pdb
+C:\Users\michael\source\repos\SalesTax\obj\Debug\SalesTax.csproj.AssemblyReference.cache
